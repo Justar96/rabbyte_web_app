@@ -18,6 +18,7 @@
     "@capacitor/core": "^6.0.0",
     "@capacitor/ios": "^6.0.0",
     "@capacitor/splash-screen": "^6.0.0",
+    "express": "^4.19.2",
     "superagent": "^9.0.0"
   },
   "devDependencies": {
